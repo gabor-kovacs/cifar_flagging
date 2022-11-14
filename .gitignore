@@ -1,0 +1,4 @@
+data/unlabeled_imgs.npy
+**/lightning_logs/*
+notes.txt
+main.py
